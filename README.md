@@ -5,11 +5,12 @@
 ### ☕ Atualmente estou me focando no estudo da Linguagem Java 
 ### 📕 Curso Analise e Desenvolvimento de Sistema (IFPE)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-melo-187785234/)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-melo-187785234/)
 
 ![Gust4voMelo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gust4voMelo&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4voMelo&layout=compact)](https://github.com/Gust4voMelo/github-readme-stats)
 
-### Tecnologias que eu utilizo no meu dia
+### Estou aprendendo:
 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
