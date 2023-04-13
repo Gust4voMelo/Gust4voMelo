@@ -9,7 +9,7 @@
 
 ![Gust4voMelo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gust4voMelo&show_icons=true&theme=dracula)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4voMelo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4voMelo&layout=compact&theme=dracula)
 
 ### Estou aprendendo:
 
