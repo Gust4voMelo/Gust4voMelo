@@ -7,10 +7,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-melo-187785234/)
 
-<div style="display: inline_block">
-  <img align="center" alt="git stats" src="https://github-readme-stats.vercel.app/api?username=Gust4voMelo&show_icons=true&theme=transparent" />
-  <img align="center" alt="git readme" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4voMelo&layout=compact&theme=transparent" />
-</div><br/>
+
+  <img align="center" alt="git stats" src="https://github-readme-stats.vercel.app/api?username=Gust4voMelo&show_icons=true&theme=transparent" /><br/>
+  <img align="center" alt="git readme" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4voMelo&layout=compact&theme=transparent" /><br/>
+  <img align="center" alt="code time" src="https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats" /><br/>
+
 ### Estou aprendendo:
 
 <div style="display: inline_block">
