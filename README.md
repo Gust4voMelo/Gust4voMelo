@@ -10,7 +10,6 @@
 
   <img align="center" alt="git stats" src="https://github-readme-stats.vercel.app/api?username=Gust4voMelo&show_icons=true&theme=transparent" /><br/>
   <img align="center" alt="git readme" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4voMelo&layout=compact&theme=transparent" /><br/>
-  <img align="center" alt="code time" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gust4voMelo&layout=compact&theme=transparent" /><br/>
 
 ### Estou aprendendo:
 
