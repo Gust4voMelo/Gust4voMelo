@@ -8,7 +8,7 @@
 
   <img align="center" alt="git readme" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust4voMelo&layout=compact&theme=transparent" /><br/>
 
-### Estou aprendendo:
+### Estou estudando:
 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
