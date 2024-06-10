@@ -4,7 +4,7 @@
 
 📕 Estudante de Análise e Desenvolvimento de Sistema (IFPE)
 
- - 🔍 Atualmente estou estudando .NET, C#, Java e Javascript
+ - 🔍 Atualmente estou estudando .NET, C#, Java e React
  - 👨‍💻 Estou trabalhando atualmente em projetos Web como Desenvolvedor FullStack
  - ⚡ Curiosidade: Amo livros e jogos.
 
