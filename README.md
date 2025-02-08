@@ -4,8 +4,8 @@
 
 📕 Estudante de Análise e Desenvolvimento de Sistema (IFPE)
 
- - 🔍 Atualmente estou estudando .NET, C#, Java e React
- - 👨‍💻 Estou trabalhando atualmente em projetos Web como Desenvolvedor FullStack
+ - 🔍 Atualmente estou estudando NodeJs e Desenvolvimento Salesforce
+ - 👨‍💻 Estou trabalhando atualmente como Analista Desenvolvedor Salesforce e em projetos Web como Desenvolvedor Backend
  - ⚡ Curiosidade: Amo livros e jogos.
 
 ## Contato:
